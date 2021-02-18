@@ -1,4 +1,4 @@
-%matplotlib inline
+%matplotlib inline # this may need to be commented out if you are using an IDE, like PyCharm, rather than a kernal, like CoCalc.
 
 # IMPORT AREA
 
